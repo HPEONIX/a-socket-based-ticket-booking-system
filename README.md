@@ -3,4 +3,4 @@ for networking project
 
 DONT FORGET
 ===========
--install mysql connector library
+- install mysql connector library
